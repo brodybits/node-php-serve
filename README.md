@@ -2,7 +2,7 @@
 
 CLI for `node-php-server`
 
-LICENSE: ISC
+LICENSE: ISC or MIT
 
 ## Sample usage
 

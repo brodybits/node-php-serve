@@ -1,6 +1,6 @@
 {
   "name": "php-serve",
-  "version": "0.0.1",
+  "version": "0.0.2-dev",
   "description": "PHP Server command line for Node",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brodybits/node-php-serve"
+    "url": "https://github.com/brodybits/node-php-serve.git"
   },
   "keywords": [
     "node",
@@ -16,7 +16,7 @@
     "cli"
   ],
   "author": "Christopher J. Brody",
-  "license": "ISC",
+  "license": "(ISC OR MIT)",
   "bin": {
     "php-serve": "./index.js"
   },
